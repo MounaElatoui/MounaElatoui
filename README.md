@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there, I'm Mouna Elatoui
 
-<!--
-**MounaElatoui/MounaElatoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering & Information Systems Graduate** | 💡 Passionate about building clean, functional digital solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Tools
+
+**Languages & Frameworks**  
+`Java` • `SQL` • `TypeScript` • `JavaScript` • `Angular` • `Spring Boot` • `HTML/CSS` • `Bootstrap` • `UML`
+
+### 📌 Featured Projects
+
+- 📚 **Used Book Web App** – Final training project  
+  *Angular • Spring Boot • SQL*  
+- 📱 **E‑commerce + Delivery Mobile App** – Final year project  
+  *Mobile dev • online sales workflow*
+
+---
+
+
+
+
+⭐ 
